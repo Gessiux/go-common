@@ -3,7 +3,7 @@ package common
 import (
 	"sync/atomic"
 
-	"github.com/Gessiux/neatchain/blockchain/log"
+	"github.com/Gessiux/neatchain/chain/log"
 )
 
 type Service interface {
